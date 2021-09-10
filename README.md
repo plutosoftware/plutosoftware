@@ -1,5 +1,5 @@
 - 👋 Hello, We are Pluto Software, Customized Application Development Startup.
-- 🌱 We work on lots of technologies on JavaScript Frameworks like ReactJS, NodeJS, ExpressJS, MongoDB
+- 🌱 We work on lots of technologies like JavaScript Frameworks ReactJS, NodeJS, ExpressJS, MongoDB
 - 💞️ We on variety of tech stacks which will help in developing your applications rapidly.
 - 📫 For any project or technical consultation, please reach us at official.plutosoftware@gmail.com
 
